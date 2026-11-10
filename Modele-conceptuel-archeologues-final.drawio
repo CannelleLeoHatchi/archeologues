@@ -1,0 +1,314 @@
+<mxfile host="65bd71144e">
+    <diagram id="ux1fxPBubsdU_liXlRsr" name="Page-1">
+        <mxGraphModel dx="2499" dy="2466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="LrQVd403y-O_3VL_SZez-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;&lt;b style=&quot;&quot;&gt;ARCHEOLOGUE / PERSONNE&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Identifiant&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Nom&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Prénom&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Genre&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Date de naissance&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Date de décès&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Nationalité&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="205" width="240" x="260" y="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-8" edge="1" parent="1" style="endArrow=none;html=1;entryX=0.008;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="497.8399999999999" y="450.00000000000006" as="sourcePoint"/>
+                        <mxPoint x="262.15999999999985" y="450.00000000000006" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;INSTITUTION&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Nom&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Type&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Ville&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Pays&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fondation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="160" width="110" x="660" y="-60" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-50" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-11" style="edgeStyle=none;html=1;" target="LrQVd403y-O_3VL_SZez-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-51" connectable="0" parent="LrQVd403y-O_3VL_SZez-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;est l&#39;appartenance de&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.0294" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;APPARTENANCE&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Type&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Début&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="120" width="130" x="660" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;POSTE / CARRIERE&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fonction&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Début&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="120" width="160" x="1020" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-59" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-14" style="edgeStyle=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="LrQVd403y-O_3VL_SZez-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-60" connectable="0" parent="LrQVd403y-O_3VL_SZez-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Garamond&quot;&gt;&lt;b&gt;est réalisé par&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.085" y="3" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-63" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-14" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LrQVd403y-O_3VL_SZez-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-64" connectable="0" parent="LrQVd403y-O_3VL_SZez-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;concerne&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.013" y="1" as="geometry">
+                        <mxPoint y="1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-65" connectable="0" parent="LrQVd403y-O_3VL_SZez-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" relative="1" width="60" x="-0.8899" y="-9" as="geometry">
+                        <mxPoint x="-30" y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CONTRIBUTION&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Rôle (auteur, coauteur)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="95" width="160" x="710" y="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;PUBLICATION&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Titre&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Année&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Type&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Référence&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="130" width="110" x="990" y="660" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;&lt;b&gt;ACTIVITE DE TERRAIN&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Type d&#39;activité (fouilles, étude)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Rôle&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Début&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Fin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="160" width="200" x="260" y="800" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;SITE ARCHEOLOGIQUE&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Nom&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Pays&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Région&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Type de site&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="145" width="190" x="-90" y="755" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;SPECIALISATION&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Domaine&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Aire culturelle&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Période étudiée&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="130" width="150" x="-500" y="755" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-89" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-19" style="edgeStyle=none;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="LrQVd403y-O_3VL_SZez-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-90" connectable="0" parent="LrQVd403y-O_3VL_SZez-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;a pour personne source&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.0064" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;RELATION ENTRE PERSONNES&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Type (maître-élève / collaboration)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Début&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="120" width="250" x="-500" y="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-103" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-20" style="edgeStyle=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="LrQVd403y-O_3VL_SZez-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-104" connectable="0" parent="LrQVd403y-O_3VL_SZez-103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;localise&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.1812" y="-3" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;LIEU GEOGRAPHIQUE&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Nom&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Type&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Pays&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Latitude&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Longitude&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="145" width="180" x="-320" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;FORMATION&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Discipline&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Diplôme&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Début&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="145" width="120" x="-30" y="-60" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-23" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-21" style="endArrow=none;html=1;exitX=0;exitY=0.197;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.008;entryY=0.195;entryDx=0;entryDy=0;entryPerimeter=0;" target="LrQVd403y-O_3VL_SZez-21" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="40" y="20" as="sourcePoint"/>
+                        <mxPoint x="90" y="-30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-24" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-9" style="endArrow=none;html=1;exitX=-0.005;exitY=0.188;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="720" y="20" as="sourcePoint"/>
+                        <mxPoint x="770" y="-30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-25" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-11" style="endArrow=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="740" y="440" as="sourcePoint"/>
+                        <mxPoint x="790" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-26" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-13" style="endArrow=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="1130" y="440" as="sourcePoint"/>
+                        <mxPoint x="1180" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-27" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-15" style="endArrow=none;html=1;exitX=0;exitY=0.231;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.232;entryDx=0;entryDy=0;entryPerimeter=0;" target="LrQVd403y-O_3VL_SZez-15" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="1030" y="750" as="sourcePoint"/>
+                        <mxPoint x="1080" y="700" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-29" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-14" style="endArrow=none;html=1;exitX=-0.006;exitY=0.322;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="820" y="840" as="sourcePoint"/>
+                        <mxPoint x="870" y="790" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-31" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-17" style="endArrow=none;html=1;exitX=-0.005;exitY=0.238;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="50" y="840" as="sourcePoint"/>
+                        <mxPoint x="100" y="790" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-32" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-18" style="endArrow=none;html=1;exitX=-0.002;exitY=0.268;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="-400" y="840" as="sourcePoint"/>
+                        <mxPoint x="-350" y="790" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-33" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-19" style="endArrow=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="-300" y="470" as="sourcePoint"/>
+                        <mxPoint x="-250" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="490" y="405" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="601" y="405" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-38" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-11" style="edgeStyle=none;html=1;entryX=0.582;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" target="LrQVd403y-O_3VL_SZez-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-39" connectable="0" parent="LrQVd403y-O_3VL_SZez-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Garamond&quot;&gt;&lt;b&gt;concerne&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.0249" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="660" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="661" y="331" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="270" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="80" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-52" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-21" style="edgeStyle=none;html=1;entryX=0.065;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="LrQVd403y-O_3VL_SZez-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-53" connectable="0" parent="LrQVd403y-O_3VL_SZez-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Garamond&quot;&gt;est suivi par&lt;/font&gt;&lt;/b&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.0075" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-54" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-13" style="edgeStyle=none;html=1;entryX=1;entryY=0.804;entryDx=0;entryDy=0;entryPerimeter=0;" target="LrQVd403y-O_3VL_SZez-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-55" connectable="0" parent="LrQVd403y-O_3VL_SZez-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;est exercé par&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.024" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-56" connectable="0" parent="LrQVd403y-O_3VL_SZez-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" relative="1" width="60" x="0.9781" y="17" as="geometry">
+                        <mxPoint x="-30" y="-50" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="970" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="460" y="615" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="660" y="750" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="940" y="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-75" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-16" style="edgeStyle=none;html=1;entryX=0.417;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" target="LrQVd403y-O_3VL_SZez-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-76" connectable="0" parent="LrQVd403y-O_3VL_SZez-75" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;est réalisé par&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.0233" y="7" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="360" y="615" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="365" y="770" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-79" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-16" style="edgeStyle=none;html=1;entryX=1.001;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" target="LrQVd403y-O_3VL_SZez-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-80" connectable="0" parent="LrQVd403y-O_3VL_SZez-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;se déroule sur&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.0289" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="90" y="812.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="210" y="812.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-85" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-18" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LrQVd403y-O_3VL_SZez-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-86" connectable="0" parent="LrQVd403y-O_3VL_SZez-85" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;est la spécialisation de&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.0053" y="6" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-88" connectable="0" parent="LrQVd403y-O_3VL_SZez-85" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" relative="1" width="60" x="-0.9263" y="-18" as="geometry">
+                        <mxPoint x="-40" y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="220" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="-250" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-93" edge="1" parent="1" style="edgeStyle=none;html=1;entryX=0.015;entryY=0.352;entryDx=0;entryDy=0;entryPerimeter=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-253.6" y="455.2950203570308" as="sourcePoint"/>
+                        <mxPoint x="259.9999999999999" y="481.1600000000003" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-94" connectable="0" parent="LrQVd403y-O_3VL_SZez-93" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;a pour personne cible&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.0107" y="-4" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="-260" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="200" y="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-99" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-20" style="endArrow=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="LrQVd403y-O_3VL_SZez-20" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="-190" y="200" as="sourcePoint"/>
+                        <mxPoint x="-140" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-105" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="-260" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="-149" y="750" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-107" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-20" style="edgeStyle=none;html=1;entryX=-0.006;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" target="LrQVd403y-O_3VL_SZez-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="252.1400000000001" y="423.5799999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="210" y="435" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="210" y="405" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="-149" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-113" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-20" style="edgeStyle=none;html=1;entryX=-0.015;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" target="LrQVd403y-O_3VL_SZez-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-114" connectable="0" parent="LrQVd403y-O_3VL_SZez-113" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;est le lieu d&#39;implantation de&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.139" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="-160" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="LrQVd403y-O_3VL_SZez-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="610" y="5" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
