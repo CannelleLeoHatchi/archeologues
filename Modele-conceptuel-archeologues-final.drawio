@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="ux1fxPBubsdU_liXlRsr" name="Page-1">
-        <mxGraphModel dx="2499" dy="2466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1519" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -26,6 +26,16 @@
                 </mxCell>
                 <mxCell id="LrQVd403y-O_3VL_SZez-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;APPARTENANCE&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Type&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Début&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
                     <mxGeometry height="120" width="130" x="660" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Xgr-oiJ5rIWc03AsZ7W-6" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-13" style="edgeStyle=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="LrQVd403y-O_3VL_SZez-9">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="840" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5Xgr-oiJ5rIWc03AsZ7W-7" connectable="0" parent="5Xgr-oiJ5rIWc03AsZ7W-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Est exercé au sein de&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.0063" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="LrQVd403y-O_3VL_SZez-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;POSTE / CARRIERE&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fonction&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Début&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
                     <mxGeometry height="120" width="160" x="1020" y="360" as="geometry"/>
@@ -87,6 +97,14 @@
                 </mxCell>
                 <mxCell id="LrQVd403y-O_3VL_SZez-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;LIEU GEOGRAPHIQUE&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Nom&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Type&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Pays&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Latitude&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Longitude&lt;/font&gt;&lt;/div&gt;" vertex="1">
                     <mxGeometry height="145" width="180" x="-320" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Xgr-oiJ5rIWc03AsZ7W-1" edge="1" parent="1" source="LrQVd403y-O_3VL_SZez-21" style="edgeStyle=none;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="LrQVd403y-O_3VL_SZez-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Xgr-oiJ5rIWc03AsZ7W-2" connectable="0" parent="5Xgr-oiJ5rIWc03AsZ7W-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Est dispensée par&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.0106" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="LrQVd403y-O_3VL_SZez-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;FORMATION&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Discipline&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Diplôme&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Début&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Fin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Garamond&quot; size=&quot;3&quot;&gt;Source&lt;/font&gt;&lt;/div&gt;" vertex="1">
                     <mxGeometry height="145" width="120" x="-30" y="-60" as="geometry"/>
@@ -285,6 +303,11 @@
                         <mxPoint x="252.1400000000001" y="423.5799999999999" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="etNczq3XhToG__ltjFM8-1" connectable="0" parent="LrQVd403y-O_3VL_SZez-107" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;est le lieu de naissance de&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.2138" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="LrQVd403y-O_3VL_SZez-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
                     <mxGeometry height="30" width="60" x="210" y="435" as="geometry"/>
                 </mxCell>
@@ -307,6 +330,18 @@
                 </mxCell>
                 <mxCell id="LrQVd403y-O_3VL_SZez-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
                     <mxGeometry height="30" width="60" x="610" y="5" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Xgr-oiJ5rIWc03AsZ7W-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="610" y="-50" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Xgr-oiJ5rIWc03AsZ7W-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="80" y="-30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Xgr-oiJ5rIWc03AsZ7W-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;0..n&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="1050" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Xgr-oiJ5rIWc03AsZ7W-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="760" y="35" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
